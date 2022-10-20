@@ -1,15 +1,25 @@
 .headshot {
   float: left;
-  width: 25vw;
+  width:25%;
+  max-width: 300px;
+  height: auto;
 }
 
 body {
   font-family: fantasy, sans-serif;
-  background-image: url("/images/fixedgarden.png"), url("/images/scrollingbackground.jpg");
-  background-size: auto, auto;
+  background-image: url("/images/fixedgarden.png"), url("/images/3616.jpg");
+  background-size: cover, cover;
   background-repeat: no-repeat, repeat;
   background-attachment: fixed, scroll;
-  /* position: relative; */
+}
+
+h1 {
+  background-image: url("/images/papertexture.png");
+  border-radius: 25px;
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+  margin: 5vw 5vh;
 }
 
 
@@ -29,3 +39,6 @@ body {
     background-attachment: fixed;
     background-color: dimgrey;
     text-align: center; */
+
+/* add on work if desired - attempt to make stars scroll slower than text
+https: //keithclark.co.uk/articles/pure-css-parallax-websites/ */
