@@ -101,7 +101,7 @@ h1 {
 }
 
 .credits {
-  margin: 150vh 15vw;
+  margin: 150vh 15vw 5vh 15vw;
   background-image: url("/images/papertexture.png");
   border-radius: 25px;
   padding: 1vh 1vw;
