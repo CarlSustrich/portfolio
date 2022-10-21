@@ -8,7 +8,7 @@
 }
 
 body {
-  margin: 3.25em;
+  margin: 3vw;
   font-family: fantasy, sans-serif;
   font-variant: small-caps;
   background-image: url("/images/fixedgarden.png"), url("/images/3616.jpg");
@@ -39,20 +39,20 @@ h1 {
   display: table;
 }
 
+.projects {
+  background-image: url("/images/papertexture.png");
+  border-radius: 25px;
+  padding: 2vh 5vw;
+  margin: 35vh 5vw;
+}
+
+p {
+  /* font-size: 2wv; */
+}
 
 * {
   box-sizing: border-box;
 }
-
-/*
-
-    font-variant: small-caps;
-    background-image: url(../images/dogbackground.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-color: dimgrey;
-    text-align: center; */
 
 /* add on work if desired - attempt to make stars scroll slower than text
 https: //keithclark.co.uk/articles/pure-css-parallax-websites/ */
