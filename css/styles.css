@@ -116,6 +116,17 @@ h1 {
   text-align: center;
 }
 
+.credits {
+  margin: 150vh 15vw;
+  background-image: url("/images/papertexture.png");
+  border-radius: 25px;
+  padding: 1vh 1vw;
+  object-fit: contain;
+  content: "";
+  clear: both;
+  display: table;
+}
+
 * {
   box-sizing: border-box;
 
