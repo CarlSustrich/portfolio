@@ -4,7 +4,7 @@
 
 #### _A simple HTML page serving as a portfolio_
 
-#### _Viewable at:_
+## _Viewable at:_
 [Github Pages](CarlSustrich.github.io/portfolio/)
 
 ## Technologies Used
