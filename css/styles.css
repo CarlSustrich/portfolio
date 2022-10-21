@@ -48,8 +48,25 @@ h1 {
   margin: 35vh 5vw;
 }
 
+.contacts {
+    background-image: url("/images/papertexture.png");
+    border-radius: 25px;
+    padding: 2vh 5vw;
+    margin: 35vh 5vw;
+    object-fit: contain;
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.contactIcon {
+  border-radius: 25px;
+  max-width: 20vw;
+}
+
 * {
   box-sizing: border-box;
+
 }
 
 /* add on work if desired - attempt to make stars scroll slower than text
