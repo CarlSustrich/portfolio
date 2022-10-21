@@ -47,6 +47,10 @@ h1 {
   border-radius: 25px;
   padding: 2vh 5vw;
   margin: 35vh 5vw;
+  object-fit: contain;
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .contacts {
@@ -60,6 +64,12 @@ h1 {
     clear: both;
     display: table;
   }
+
+.projectimg {
+  width: 27vw;
+  height: auto;
+}
+
 
 .contactIcon {
   border-radius: 25px;
@@ -96,7 +106,7 @@ h1 {
 
 .text {
   color: white;
-  font-size: 20px;
+  font-size: 2vw;
   position: absolute;
   top: 50%;
   left: 50%;
