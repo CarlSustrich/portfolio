@@ -13,14 +13,14 @@ body {
   margin: 3vw;
   font-family: fantasy, sans-serif;
   font-variant: small-caps;
-  background-image: url("/images/fixedgarden.png"), url("/images/3616.jpg");
+  background-image: url("../images/fixedgarden.png"), url("../images/3616.jpg");
   background-size: cover, cover;
   background-repeat: no-repeat, repeat;
   background-attachment: fixed, scroll;
 }
 
 h1 {
-  background-image: url("/images/papertexture.png");
+  background-image: url("../images/papertexture.png");
   border-radius: 25px;
   padding: 10vh 10vw;
   /* display: flex;
