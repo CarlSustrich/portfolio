@@ -32,7 +32,7 @@ h1 {
 
 .bodytext {
   margin: 35vh 5vw;
-  background-image: url("/images/papertexture.png");
+  background-image: url("../images/papertexture.png");
   border-radius: 25px;
   padding: 2vh 5vw;
   object-fit: contain;
@@ -43,7 +43,7 @@ h1 {
 
 .projects {
   text-align: center;
-  background-image: url("/images/papertexture.png");
+  background-image: url("../images/papertexture.png");
   border-radius: 25px;
   padding: 2vh 5vw;
   margin: 35vh 5vw;
@@ -55,7 +55,7 @@ h1 {
 
 .contacts {
     text-align: center;
-    background-image: url("/images/papertexture.png");
+    background-image: url("../images/papertexture.png");
     border-radius: 25px;
     padding: 2vh 5vw;
     margin: 35vh 5vw;
@@ -102,7 +102,7 @@ h1 {
 
 .credits {
   margin: 150vh 15vw 5vh 15vw;
-  background-image: url("/images/papertexture.png");
+  background-image: url("../images/papertexture.png");
   border-radius: 25px;
   padding: 1vh 1vw;
   text-align: center;
@@ -121,5 +121,5 @@ h1 {
 
 }
 
-/* add on work if desired - attempt to make stars scroll slower than text
+/* add on work if desired - attempt to make clouds scroll slower than text
 https: //keithclark.co.uk/articles/pure-css-parallax-websites/ */
