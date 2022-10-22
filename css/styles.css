@@ -23,8 +23,6 @@ h1 {
   background-image: url("../images/papertexture.png");
   border-radius: 25px;
   padding: 10vh 10vw;
-  /* display: flex;
-  justify-content: center; */
   text-align: center;
   margin: 35vh 5vw 35vh 5vw;
   overflow: auto;
@@ -54,16 +52,16 @@ h1 {
 }
 
 .contacts {
-    text-align: center;
-    background-image: url("../images/papertexture.png");
-    border-radius: 25px;
-    padding: 2vh 5vw;
-    margin: 35vh 5vw;
-    object-fit: contain;
-    content: "";
-    clear: both;
-    display: table;
-  }
+  text-align: center;
+  background-image: url("../images/papertexture.png");
+  border-radius: 25px;
+  padding: 2vh 5vw;
+  margin: 35vh 5vw;
+  object-fit: contain;
+  content: "";
+  clear: both;
+  display: table;
+}
 
 .projectimg {
   width: 25vw;
@@ -118,7 +116,6 @@ h1 {
 
 * {
   box-sizing: border-box;
-
 }
 
 /* add on work if desired - attempt to make stars scroll slower than text
